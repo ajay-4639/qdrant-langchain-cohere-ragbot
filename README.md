@@ -1,4 +1,4 @@
-# A Simple Full Stack RAG-bot for Enterprises using React, Qdrant, Langchain, Cohere and FastAPI
+# A Full Stack RAG-bot for Enterprises using React, Qdrant, Langchain, Cohere and FastAPI
 
 This React-based frontend application provides a user interface for an AI-powered document chat system, allowing users to interact with their uploaded documents through natural language queries.
 
@@ -31,18 +31,3 @@ This will launch the application in your default web browser, typically accessib
 - Styling: CSS
 - Communication with Backend: Fetch API
 
-## Backend Server Code
-https://github.com/AI-ANK/qdrant-langchain-cohere-ragbot-python-server
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-For support, please open an issue in the GitHub issue tracker.
-
-## Live Demo
-Try the demo [here](https://qdrant-langchain-cohere-ragbot-ui.vercel.app/)
-
-## Author
-Developed by [Harshad Suryawanshi](https://www.linkedin.com/in/harshadsuryawanshi/)
-If you find this project useful, consider giving it a ⭐ on GitHub!
