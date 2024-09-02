@@ -2,7 +2,6 @@
 
 This React-based frontend application provides a user interface for an AI-powered document chat system, allowing users to interact with their uploaded documents through natural language queries.
 
-This React-based frontend application provides a user interface for an AI-powered document chat system, allowing users to interact with their uploaded documents through natural language queries.
 
 ## Features
 - **Interactive Chat Interface**: Users can chat with the uploaded document to get context-aware answers.
